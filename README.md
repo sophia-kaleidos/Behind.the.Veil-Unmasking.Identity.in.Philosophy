@@ -1,7 +1,5 @@
 # Behind the Veil: Unmasking Identity in Philosophy
 
-# Philosophical Inquiry into Masks and Identity
-
 ## I. Introduction
    - **A. Definition of masks in a philosophical context**
    - **B. Importance of exploring masks and identity**
