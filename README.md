@@ -1,5 +1,10 @@
 # Behind the Veil: Unmasking Identity in Philosophy
 
+This will remain a living document until need arises to archive it. This will remain a work in progress
+until then. If you would like to contribute, or see an error, please submit a PR and I will do my best
+to merge the concept. ~The Garden~ represents a growing ground for ideas and concepts we can categorize
+and bring to relevant places.
+
 ## I. Introduction
    - **A. Definition of masks in a philosophical context**
    - **B. Importance of exploring masks and identity**
